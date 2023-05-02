@@ -10,7 +10,13 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. First run the development server:</p>
+<p>1. First install the dependencies:</p>
+
+```
+npm install
+```
+
+<p>2. Second run the development server:</p>
 
 ```
 npm run dev
